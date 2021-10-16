@@ -9,9 +9,9 @@ Repositorio de los Postworks del Módulo 5 del curso de Data Science de BEDU-San
 
 - Poder determinar mediante técnicas de Machine Learning, si existe una relación o impacto entre el padecimiento de enfermedades respiratorias en los países y las condiciones del cambio climático como son:
 	- Gases de efecto invernadero
-	- Emisiones de Co2
+	- Emisiones de CO2
 	- Emisiones de CH4
-	- Emisiones de N20
+	- Emisiones de N2O
 	- Emisiones de gases de fluoruro
 	- Temperatura promedio
 
